@@ -1,0 +1,4 @@
+URL Deployment : https://huggingface.co/spaces/vaniaalya14/food_image_calories_classification
+URL Data : https://drive.google.com/drive/folders/16M_eUkwIgIoaPc_Pee_gX480WQ91V_nw?usp=drive_link
+URL Model : https://drive.google.com/file/d/1PcLajJg9evCylVRDZ3EtvZIp60F1cQXM/view?usp=drive_link
+
